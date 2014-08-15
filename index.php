@@ -47,7 +47,7 @@ if(!function_exists('is_mobile')) {
 			<div id="instructions" onmouseover="exFuncDiv();" onmouseout="exFuncDiv();">
 				<h2>查看示例</h2>
 				<div id="exfun" style="display:none">
-					<p>设置昵称 /name 昵称<br />设置颜色 /sex 颜色编号(0 ~ 6)<br />显示状态 /status<br />设置速度 /speed 速度值(1 ~ 20)<br />瞬移 /goto 横坐标 纵坐标<br />短距离瞬移按住 CTRL<br />定位 /find 蝌蚪昵称或 ID<br />开始或停止追踪 /follow 蝌蚪昵称或 ID<br />保存位置 /savepos<br />读取位置 /readpos<br />查看在线列表 /dumplist<br />切换星系 /star 星系编号(1 ~ 3)<br />查看聊天记录 /record</p>
+					<p>设置昵称 /name 昵称<br />设置颜色 /sex 颜色编号(0 ~ 6)<br />显示状态 /status<br />设置速度 /speed 速度值(1 ~ 20)<br />瞬移 /goto 横坐标 纵坐标<br />短距离瞬移按住 CTRL<br />定位 /find 蝌蚪昵称或 ID<br />开始或停止追踪 /follow 蝌蚪昵称或 ID<br />保存位置 /savepos<br />读取位置 /readpos<br />查看在线列表 /dumplist<br />切换星系 /star 星系编号(1 ~ 2)<br />查看聊天记录 /record</p>
 				</div>
 			</div>
 			<?php } ?>
@@ -65,7 +65,7 @@ if(!function_exists('is_mobile')) {
 						?>
 						<h2><a href="javascript:exFuncDiv();">❤</a> 双指手势调出或隐藏输入框</h2>
 						<div id="exfun" style="display:none">
-						<p>设置昵称 /name 昵称<br />设置颜色 /sex 颜色编号(0 ~ 6)<br />显示状态 /status<br />设置速度 /speed 速度值(3 ~ 20)<br />瞬移 /goto 横坐标 纵坐标<br />定位 /find 蝌蚪昵称或 ID<br />开始或停止追踪 /follow 蝌蚪昵称或 ID<br />保存位置 /savepos<br /> 读取位置 /readpos<br />查看在线列表 /dumplist<br />切换星系 /star 星系编号(1 ~ 3)<br />查看聊天记录 /record</p>
+						<p>设置昵称 /name 昵称<br />设置颜色 /sex 颜色编号(0 ~ 6)<br />显示状态 /status<br />设置速度 /speed 速度值(3 ~ 20)<br />瞬移 /goto 横坐标 纵坐标<br />定位 /find 蝌蚪昵称或 ID<br />开始或停止追踪 /follow 蝌蚪昵称或 ID<br />保存位置 /savepos<br /> 读取位置 /readpos<br />查看在线列表 /dumplist<br />切换星系 /star 星系编号(1 ~ 2)<br />查看聊天记录 /record</p>
 						</div>
 						<script>
 							var mobile = 1;

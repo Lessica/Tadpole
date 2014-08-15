@@ -268,8 +268,6 @@ var WebSocketService = function(model, webSocket) {
 			var star = parseInt(msg.match(regexp)[1]);
 			var server;
 			if (star == 1) {
-				server = "82flex.com:8280";
-			} else if (star == 3) {
 				server = "rumpetroll.motherfrog.com:8180";
 			} else {
 				server = "";
